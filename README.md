@@ -1,10 +1,10 @@
-# 1. Description
+### 1. Description
 This repo is to help create private certificate files with .pem, .crt, .pfx, .pfx, .p12, and .jks formats in Ubuntu/Debian Linux.
 
-# 2. Getting Started
+### 2. Getting Started
 Before using the following private ssl generator, make sure your linux has OpenSSL and Java installed first.
 
-# 3. Getting Started
+### 3. Getting Started
 1. In order to use the scripts from this repo do a git clone first.
     ```
     $ sudo git clone https://github.com/firasfitrada/private-cert.git
